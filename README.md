@@ -1,5 +1,9 @@
 # 3D render prototype
 
+```sh
+$ python3 3drender.py
+```
+
 This script was written for a Linear Algebra evaluation, part of the Data Science and
 Artificial Intelligence graduation course on FGV - EMAp. There were 10 possible
 themes to choose for this work, and we (me and github.com/paulocgr) have chosen
@@ -33,4 +37,4 @@ functions) were used.
 To movement in the world space, the **W, A, S, D, up and down** keys can be
 used for translation, **N, M, J, K, left and right** keys can be used for rotating
 the camera along three different axis and **U and I** keys can be used for changing
-the distance of the near plane used for perspective (a.k.a changing FOV).
+the distance of the near plane used for perspective (a.k.a changing FOV)
